@@ -37,10 +37,9 @@ The Patient Management System is designed to help users maintain patient records
 ```text
 Patient-Management-System/
 │
-├── main.cpp
-├── patients.txt
+├── Patient-Management-System.cpp
+├── Patient Management System Outline.pdf
 ├── README.md
-└── LICENSE
 ```
 
 ---
